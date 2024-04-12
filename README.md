@@ -19,7 +19,8 @@ Security Information and Event Management (SIEM) system for log ingestion and an
 Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-Steps
+Steps 
+
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
